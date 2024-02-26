@@ -1,0 +1,39 @@
+/* styles.css */
+
+.titles {
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    font-weight: 800;
+    color: white;
+    background-color: rgb(255, 202, 116);
+    display: inline;
+    border: bisque;
+    border-width: thick;
+    border-style: dotted;
+    
+    transition-duration: 55ms;
+    
+}
+
+button {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    border: rgb(255, 202, 116);
+    border-width: thick;
+    border-style: dotted;
+    background-color: #ffffb6;
+    
+    
+}
+
+a {
+    color: rgb(255, 202, 116);
+}
+
+img {
+    border: rgb(255, 202, 116);
+    border-width: thick;
+    border-style: outset;
+}
+
